@@ -1,6 +1,89 @@
 {
   "categories": {
-    "relationships": "Relationships"
+    "food-health": "Food & Health",
+    "meditation-mental-health": "Meditation & Mental Health",
+    "relationships": "Relationships",
+    "habits-routines": "Habits & Routines"
   },
-  "research": []
+  "research": [
+    {
+      "slug": "personal-space-paradox",
+      "title": "The Personal Space Paradox",
+      "type": "Micro Finding",
+      "category": "relationships",
+      "paragraphs": [
+        "Researchers have discovered that people in love require two completely opposite things:",
+        "Personal space and constant attention.",
+        "The difficulty is that both are often required at exactly the same time.",
+        "One partner may say, “Leave me alone,” then become offended when the other actually leaves.",
+        "Dr. Bullshitzky has concluded that personal space is not a physical distance.",
+        "**It is a location that moves depending on someone's mood.**"
+      ]
+    },
+    {
+      "slug": "unnecessary-touching-experiment",
+      "title": "The Unnecessary Touching Experiment",
+      "type": "Micro Finding",
+      "category": "relationships",
+      "paragraphs": [
+        "The Institute investigated why couples insist on touching each other when there is absolutely no practical reason to do so.",
+        "Common behaviors include poking, squeezing, stealing blankets, and placing freezing feet against another person's warm body.",
+        "The results were disturbing.",
+        "The more comfortable one partner becomes, the stronger the other partner's urge to interfere.",
+        "**Dr. Bullshitzky concluded that true love is the inability to see someone comfortable and leave them that way.**"
+      ]
+    },
+    {
+      "slug": "last-bite-investigation",
+      "title": "The Last Bite Investigation",
+      "type": "Micro Finding",
+      "category": "relationships",
+      "paragraphs": [
+        "After observing couples sharing meals, researchers discovered that the phrase “I'm not hungry” has almost no scientific value.",
+        "A person may refuse an entire meal, then begin eating from their partner's plate.",
+        "When questioned, they insist they only wanted a bite.",
+        "Further testing revealed that a bite can involve up to half the available food.",
+        "**The Institute has concluded that food tastes significantly better when somebody else was planning to eat it.**"
+      ]
+    },
+    {
+      "slug": "missing-you-paradox",
+      "title": "The Missing You Paradox",
+      "type": "Micro Finding",
+      "category": "relationships",
+      "paragraphs": [
+        "Researchers examined a strange pattern among couples who spend considerable time together.",
+        "After several hours of separation, both partners report missing each other.",
+        "However, within minutes of being reunited, one will begin deliberately annoying the other.",
+        "The Institute initially suspected a failure of memory.",
+        "Further testing suggests that **people do not necessarily miss their partner's behavior. They miss having access to it.**"
+      ]
+    },
+    {
+      "slug": "blanket-ownership-dispute",
+      "title": "The Blanket Ownership Dispute",
+      "type": "Micro Finding",
+      "category": "relationships",
+      "paragraphs": [
+        "A detailed investigation into sleeping couples has revealed that sharing a blanket does not result in equal blanket ownership.",
+        "One partner will gradually acquire most of the available material during the night.",
+        "The other wakes up freezing, confused, and reconsidering several life decisions.",
+        "Dr. Bullshitzky has established that **sleeping together is the only known arrangement in which two people enter bed equally and one wakes up with all the property.**",
+        "The Institute describes this as a remarkably peaceful form of organized theft."
+      ]
+    },
+    {
+      "slug": "dangerous-question-experiment",
+      "title": "The Dangerous Question Experiment",
+      "type": "Micro Finding",
+      "category": "relationships",
+      "paragraphs": [
+        "The Institute has identified a question that appears harmless but requires extraordinary caution:",
+        "“What are you thinking about?”",
+        "Researchers discovered that the person asking usually expects a deeply romantic answer.",
+        "Unfortunately, the other person may genuinely be wondering whether penguins have knees.",
+        "Dr. Bullshitzky concluded that **love requires accepting that the person who means everything to you may occasionally have absolutely nothing happening inside their head.**"
+      ]
+    }
+  ]
 }
