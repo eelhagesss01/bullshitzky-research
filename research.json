@@ -3,7 +3,8 @@
     "food-health": "Food & Health",
     "meditation-mental-health": "Meditation & Mental Health",
     "relationships": "Relationships",
-    "habits-routines": "Habits & Routines"
+    "habits-routines": "Habits & Routines",
+    "everyday-health": "Everyday Health"
   },
   "research": [
     {
@@ -83,6 +84,30 @@
         "Researchers discovered that the person asking usually expects a deeply romantic answer.",
         "Unfortunately, the other person may genuinely be wondering whether penguins have knees.",
         "Dr. Bullshitzky concluded that **love requires accepting that the person who means everything to you may occasionally have absolutely nothing happening inside their head.**"
+      ]
+    },
+    {
+      "slug": "vacation-famine-preparedness-syndrome",
+      "title": "The Vacation Famine Preparedness Syndrome",
+      "type": "Micro Finding",
+      "category": "everyday-health",
+      "paragraphs": [
+        "The Institute investigated why families pack enough food for a two-week emergency before leaving on a three-day vacation.",
+        "Researchers found that the destination may contain restaurants, supermarkets, and even functioning agriculture.",
+        "None of this reduces the amount of food packed.",
+        "**Dr. Bullshitzky concluded that humans do not fear starving on vacation. They fear paying for food they already have at home.**"
+      ]
+    },
+    {
+      "slug": "buckwheat-superiority-complex",
+      "title": "The Buckwheat Superiority Complex",
+      "type": "Micro Finding",
+      "category": "everyday-health",
+      "paragraphs": [
+        "The Institute discovered that buckwheat possesses an unusual property.",
+        "Nobody can eat it without somebody else explaining how healthy it is.",
+        "The longer the nutritional lecture, the less enjoyable the meal becomes.",
+        "**Dr. Bullshitzky concluded that buckwheat is not primarily a food. It is a way of establishing moral superiority over someone eating potatoes.**"
       ]
     }
   ]
